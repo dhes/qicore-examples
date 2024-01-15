@@ -1,7 +1,7 @@
-Instance: should-screen-ccs-1
+Instance: denom-EXM130-1
 InstanceOf: Encounter
 Usage: #example
-* subject = Reference(should-screen-ccs)
+* subject = Reference(denom-EXM130)
 * meta.profile = "http://hl7.org/fhir/us/core/StructureDefinition/us-core-encounter"
 * status = #finished
 * class = $v3-ActCode#AMB "ambulatory"

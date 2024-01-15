@@ -1,7 +1,7 @@
-Instance: should-not-screen-ccs-4
+Instance: numer-EXM130-4
 InstanceOf: Encounter
 Usage: #example
-* subject = Reference(should-not-screen-ccs)
+* subject = Reference(numer-EXM130)
 * meta.profile = "http://hl7.org/fhir/us/core/StructureDefinition/us-core-encounter"
 * status = #finished
 * class = $v3-ActCode#AMB "ambulatory"

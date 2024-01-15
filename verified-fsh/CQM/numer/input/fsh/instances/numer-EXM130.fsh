@@ -1,4 +1,4 @@
-Instance: should-screen-ccs
+Instance: numer-EXM130
 InstanceOf: Patient
 Usage: #example
 * meta.profile = "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
@@ -12,7 +12,7 @@ Usage: #example
 * identifier.type = $v2-0203#MR "Medical Record Number"
 * identifier.system = "http://hospital.smarthealthit.org"
 * identifier.value = "999999992"
-* name.family = "Dere"
-* name.given = "Ben"
+* name.family = "Blitz"
+* name.given = "Don"
 * birthDate = "1968-01-01"
 * gender = #male
