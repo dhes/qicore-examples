@@ -1,0 +1,1 @@
+This is the repository that hold fsh example files from cqf-ccc. The intent is to import the existing testing sample patients should-screen-ccs.json and should-not-screen-ccs.json, then hopefully create more sample patients in the fsh format. 
