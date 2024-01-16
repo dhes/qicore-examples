@@ -1,6 +1,0 @@
-Name              Type      File
-bce-numer-EXM130  Instance  instances/bce-numer-EXM130.fsh
-numer-EXM130      Instance  instances/numer-EXM130.fsh
-numer-EXM130-1    Instance  instances/numer-EXM130-1.fsh
-numer-EXM130-4    Instance  instances/numer-EXM130-4.fsh
-output            Instance  instances/output.fsh
