@@ -25,4 +25,4 @@ Usage: #example
 * bodySite.text = "Both breasts (body structure)"
 * method = $sct#24623002 "Screening mammography (procedure)"
 * method.text = "Screening mammography (procedure)"
-* note.text = "BIRADS 0. No evidence of malignancy"
+* note.text = "BIRADS Category 2 (Benign)"
