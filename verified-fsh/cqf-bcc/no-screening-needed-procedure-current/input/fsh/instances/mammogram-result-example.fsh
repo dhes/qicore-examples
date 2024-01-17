@@ -13,7 +13,7 @@ Usage: #example
 * code.text = "MG Breast Screening"
 * subject = Reference(Patient/should-not-screen-bcs)
 * effectiveDateTime = "2022-01-01T00:00:00+00:00"
-* issued = "2022-01-01T00:00:00+00:00"
+* issued = "2024-01-01T00:00:00+00:00"
 // option 1
 // * valueCodeableConcept = $sct#17621005 "Normal (qualifier value)"
 // * valueCodeableConcept.text = "Normal (qualifier value)"

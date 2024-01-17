@@ -1,6 +1,7 @@
 Instance: should-not-screen-bcs
 InstanceOf: Patient
 Usage: #example
+// Dorothy's mammogram is up to date
 * meta.profile = "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
 * extension[0].url = "http://hl7.org/fhir/us/core/StructureDefinition/us-core-race"
 * extension[=].extension.url = "ombCategory"
@@ -11,8 +12,8 @@ Usage: #example
 * identifier.use = #usual
 * identifier.type = $v2-0203#MR "Medical Record Number"
 * identifier.system = "http://hospital.smarthealthit.org"
-* identifier.value = "999999993"
-* name.family = "Blitz"
-* name.given = "Don"
+* identifier.value = "999999992"
+* name.family = "Dere"
+* name.given = "Dorothy"
 * birthDate = "1968-01-01"
-* gender = #male
+* gender = #female
