@@ -7,5 +7,5 @@ Usage: #inline
 * intent = #proposal
 * doNotPerform = true
 * code.text = "Colorectal Cancer Screening Not Recommended"
-* subject = Reference(should-not-screen-bcs)
-* supportingInfo = Reference(should-not-screen-bcs-1)
+* subject = Reference(should-not-screen)
+* supportingInfo = Reference(should-not-screen-1)

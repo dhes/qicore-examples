@@ -1,4 +1,4 @@
-Instance: should-screen-bcs
+Instance: should-screen
 InstanceOf: Patient
 Usage: #example
 // Frances is the right age but her most recent mammogram was over 2 years ago

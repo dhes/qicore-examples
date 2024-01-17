@@ -1,7 +1,7 @@
-Instance: should-screen-bcs-1
+Instance: should-screen-1
 InstanceOf: Encounter
 Usage: #example
-* subject = Reference(should-screen-bcs)
+* subject = Reference(should-screen)
 * meta.profile = "http://hl7.org/fhir/us/core/StructureDefinition/us-core-encounter"
 * status = #completed
 * class = $v3-ActCode#AMB "ambulatory"

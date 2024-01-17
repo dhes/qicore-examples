@@ -11,7 +11,7 @@ Usage: #example
 * category.text = "Imaging"
 * code = $loinc#24606-6 "MG Breast Screening"
 * code.text = "MG Breast Screening"
-* subject = Reference(Patient/should-not-screen-bcs)
+* subject = Reference(Patient/should-not-screen)
 * effectiveDateTime = "2022-01-01T00:00:00+00:00"
 * issued = "2024-01-01T00:00:00+00:00"
 // option 1

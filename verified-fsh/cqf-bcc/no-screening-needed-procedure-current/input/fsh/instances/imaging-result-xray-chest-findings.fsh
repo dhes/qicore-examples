@@ -11,7 +11,7 @@ Usage: #example
 * category.text = "Imaging"
 * code = $loinc#18782-3 "Radiology Study observation (narrative)"
 * code.text = "Findings"
-* subject = Reference(Patient/should-not-screen-bcs)
+* subject = Reference(Patient/should-not-screen)
 // * encounter.display = "ER Visit"
 * effectiveDateTime = "2019-02-03T19:43:30.000Z"
 * valueString = "LINES AND TUBES: None.\\n LUNGS AND PLEURA:\\n Clear lungs. Normal pulmonary vascularity.\\n No pleural effusion.\\n No pneumothorax.\\n HEART, MEDIASTINUM AND HILA:\\n Heart is normal in size.\\n Normal mediastinal and hilar contour.\\n BONES AND SOFT TISSUES:\\n No acute abnormality.\\n"

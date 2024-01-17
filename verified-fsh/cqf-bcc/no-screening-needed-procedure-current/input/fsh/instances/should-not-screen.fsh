@@ -1,4 +1,4 @@
-Instance: should-not-screen-bcs
+Instance: should-not-screen
 InstanceOf: Patient
 Usage: #example
 // Dorothy's mammogram is up to date
