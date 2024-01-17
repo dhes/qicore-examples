@@ -1,2 +1,3 @@
 Name                                Type      File
 imaging-result-xray-chest-findings  Instance  instances/imaging-result-xray-chest-findings.fsh
+qicore-observation-imaging-example  Instance  instances/qicore-observation-imaging-example.fsh
